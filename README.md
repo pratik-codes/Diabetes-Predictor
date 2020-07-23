@@ -17,7 +17,8 @@ https://diabetes-predictor-bypratik.herokuapp.com/
 
 ## OUTPUT 
 
-![](readme_resources/Annotation%202020-06-24%20192601.jpg)
+![](readme_resources/negative.jpg)
+
 
 ## INPUT 2
 
@@ -25,4 +26,5 @@ https://diabetes-predictor-bypratik.herokuapp.com/
 
 ## OUTPUT
 
-![](readme_resources/Annotation%202020-06-24%20192800.jpg)
+![](readme_resources/positive.jpg)
+
