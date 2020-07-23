@@ -26,5 +26,5 @@ https://diabetes-predictor-bypratik.herokuapp.com/
 
 ## OUTPUT
 
-![](readme_resources/positive.jpg)
+![](readme_resources/positive.jp.jpg)
 
