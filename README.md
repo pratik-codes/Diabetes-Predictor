@@ -1,6 +1,5 @@
 # Diabetes-Predictor
-
-* Created webapp which predicts if you have Diabets on various parameters of the user.
+* I have always been facinated with how ML and DL can be used in Healthcare and this such and amazing use of AI hence i Created webapp which predicts if you have Diabets on various parameters of the user.
 * Got an accuracy of 87% with random forest classifier
 
 * The  link to the site is here
